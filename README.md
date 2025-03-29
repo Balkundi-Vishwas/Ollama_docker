@@ -1,6 +1,6 @@
 # Ollama Docker Container with Persistent Model Storage
 
-This repository contains a customized Docker configuration for running Ollama with persistent model storage. The setup allows you to run small language models locally while ensuring that downloaded models are preserved even when containers are removed.
+This repository contains a customized Docker configuration for running Ollama with persistent model storage. The setup allows you to run any of the open Source Large Language Models(LLM) locally while ensuring that downloaded models are preserved even when containers are removed.
 
 ## Overview
 
